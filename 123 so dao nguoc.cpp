@@ -13,4 +13,5 @@ if (b >= maxValue){
 	maxValue = b;
 }
 printf ("\nSo lon hon la: %f", maxValue);
+return 0;
 }
